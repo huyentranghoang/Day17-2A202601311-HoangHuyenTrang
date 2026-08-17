@@ -1,0 +1,2 @@
+﻿E02 long_term PASS | E03 long_term PASS | E08 long_term PASS | E09 long_term PASS
+Markers: Python; benchmark report + 16:00; BLUEBIRD-42 + TypeScript + NestJS; LOTUS-88 + Java + Spring Boot (no ORCHID-27)

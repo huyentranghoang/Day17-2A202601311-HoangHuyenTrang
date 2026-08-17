@@ -1,0 +1,2 @@
+﻿E06 semantic PASS | E11 semantic PASS
+Markers: Idempotency-Key + max-3-retries + exponential-backoff; connection pooling + CONN-POOL-FIRST

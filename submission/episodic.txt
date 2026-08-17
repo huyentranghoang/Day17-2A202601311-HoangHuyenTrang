@@ -1,0 +1,2 @@
+﻿E04 episodic PASS | E05 episodic PASS
+Markers: ClientSession + concurrency=20 + ASYNC-FIX-20; connection churn + timeout threshold
